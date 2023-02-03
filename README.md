@@ -9,4 +9,4 @@ Proyecto de django para aprender a manejar y configurar:
 - Sesiones
 - Estilos con django y bootstrap
 
-Este proyecto está orientado para su ejecución en local, todavía no está desplegado en web
+[Link de la documentación en Notion](https://lruizap.notion.site/Django-CRUD-con-Autenticaci-n-y-Despliegue-471f9cc14f304103a80483e5a0b3ec98)
